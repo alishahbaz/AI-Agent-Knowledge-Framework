@@ -1,4 +1,4 @@
-[🏠 Home](Home) | [🛠️ Skills](Agent-Skills) | [🔌 MCP](Model-Context-Protocol-MCP) | [📚 RAG](Retrieval-Augmented-Generation-RAG) | [🧠 Memory](Agent-Memory) | [🛡️ Security](Security-Implementation) | [📊 Summary](Comparison-Summary)
+[🏠 Home](Home) | [🛠️ Skills]([Agent-Skills](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Agent-Skills)) | [🔌 MCP]([Model-Context-Protocol-MCP](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Model-Context-Protocol-MCP)) | [📚 RAG]([Retrieval-Augmented-Generation-RAG](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Retrieval-Augmented-Generation-RAG)) | [🧠 Memory]([Agent-Memory](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Agent-Memory)) | [🛡️ Security]([Security-Implementation](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Security-Implementation)) | [📊 Summary]([Comparison-Summary](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Comparison-Summary))
 
 
 # 🤖 AI Agent Knowledge Hub
@@ -26,12 +26,12 @@ Select a module below to dive deep into the implementation details:
 
 | Module | Focus | Best For... | Link |
 | :--- | :--- | :--- | :--- |
-| **🛠️ Agent Skills** | **Procedures** | Repeatable steps & human-defined judgment. | [Go to Skills $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Agent-Skills) |
-| **🔌 MCP** | **Connectivity** | Real-time access to external tools and APIs. | [Go to MCP $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Model-Context-Protocol-MCP) |
-| **📚 RAG** | **Documentation** | Searching through vast libraries of static manuals. | [Go to RAG $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Retrieval-Augmented-Generation-RAG) |
-| **🧠 Agent Memory** | **Experience** | Recalling how previous similar issues were solved. | [Go to Memory $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Agent-Memory) |
-| **🛡️ Security** | **Governance** | Preventing prompt injection and data leakage. | [Go to Security $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Security-Implementation) |
-| **📊 Summary** | **Comparison** | Quick-reference guide on when to use what. | [Go to Summary $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Comparison-Summary) |
+| **🛠️ Agent Skills** | **Procedures** | Repeatable steps & human-defined judgment. | [Go to Skills](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Agent-Skills) |
+| **🔌 MCP** | **Connectivity** | Real-time access to external tools and APIs. | [Go to MCP](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Model-Context-Protocol-MCP) |
+| **📚 RAG** | **Documentation** | Searching through vast libraries of static manuals. | [Go to RAG](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Retrieval-Augmented-Generation-RAG) |
+| **🧠 Agent Memory** | **Experience** | Recalling how previous similar issues were solved. | [Go to Memory ](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Agent-Memory) |
+| **🛡️ Security** | **Governance** | Preventing prompt injection and data leakage. | [Go to Security](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Security-Implementation) |
+| **📊 Summary** | **Comparison** | Quick-reference guide on when to use what. | [Go to Summary ](https://github.com/alishahbaz/AI-Agent-Knowledge-Framework/wiki/Comparison-Summary) |
 
 ---
 
